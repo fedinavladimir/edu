@@ -1,8 +1,4 @@
 file[0-9].txt
-<<<<<<< HEAD
-!file[124].txt
-=======
 !file[125].txt
->>>>>>> test
 DOCKERFILE
 *.tf
