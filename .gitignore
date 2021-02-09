@@ -1,4 +1,4 @@
 file[0-9].txt
-!file[12].txt
+!file[124].txt
 DOCKERFILE
 *.tf
